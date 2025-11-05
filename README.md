@@ -1,6 +1,6 @@
 📰 Redux Posts App
 
-LİVE: redux-posts-app-ashen.vercel.app
+LİVE: [redux-posts-app-ashen.vercel.app](https://redux-posts-app-ashen.vercel.app/)
 
 A simple React application built with Redux Toolkit that allows users to add and display posts.
 Each post includes a title, content, and author. This project demonstrates the basics of state management using Redux Toolkit and React-Redux hooks.
